@@ -25,6 +25,5 @@ me.sayHi()
 
 - **Website:** https://jak-dev.vercel.com
 - **Twitter:** [@javhln](https://twitter.com/javhln)
-- **LinkedIn:** https://www.linkedin.com/in/lukas-pistrol/
 - **Mail:** <a target="_blank" rel="me noreferrer" href="mailto:javhlan0420@gmail.com">javhlan0420@gmail.com</a>
 
