@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Jak2423/Jak2423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```swift
+struct Developer {
+  let name = "Lukas Pistrol"
+  let pronouns = "he/him/his"
+  let age = 25
+  let role = "iOS & macOS Developer"
+  let location = "Vienna 🇦🇹"
+  let languages = ["de_DE", "en_US"]
+  let skills = ["Swift", "JavaScript", "Python"]
+  
+  func sayHi() {
+    print("Hey, thanks for dropping by, feel free to have a look at my work!")
+  }
+}
+
+let me = Developer()
+me.sayHi()
+```
+
+## Links
+
+- **Website:** https://jak-dev.vercel.com
+- **Twitter:** [@javhln](https://twitter.com/javhln)
+- **LinkedIn:** https://www.linkedin.com/in/lukas-pistrol/
+- **Mail:** <a target="_blank" rel="me noreferrer" href="mailto:javhlan0420@gmail.com">javhlan0420@gmail.com</a>
+
