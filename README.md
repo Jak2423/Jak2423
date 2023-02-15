@@ -4,16 +4,16 @@
 
 ```swift
 struct Developer {
-  let name = "Lukas Pistrol"
+  let name = "Javkhlan"
   let pronouns = "he/him/his"
-  let age = 25
-  let role = "iOS & macOS Developer"
-  let location = "Vienna 🇦🇹"
-  let languages = ["de_DE", "en_US"]
-  let skills = ["Swift", "JavaScript", "Python"]
+  let age = 20
+  let role = "Frontend Developer"
+  let location = "Mongolia 🇲🇳"
+  let languages = ["mn_Mn", "en_US"]
+  let skills = ["JavaScript", "React", "Next.js", "Swift"]
   
   func sayHi() {
-    print("Hey, thanks for dropping by, feel free to have a look at my work!")
+    print("Hi, thanks for dropping by, feel free to have a look at my work!")
   }
 }
 
