@@ -20,7 +20,12 @@ struct Developer {
 let me = Developer()
 me.sayHi()
 ```
-<b>‣</b> Student at National University of Mongolia <samp><i>- Computer Science </i>
+<b>‣</b> Student at National University of Mongolia <i>- Computer Science </i><br>
+<b>‣</b> My skills are:
+    * Javascript (ES6+)
+    * React
+    * Next.js
+    * Tailwind CSS
 
 ### Links
 
