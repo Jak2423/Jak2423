@@ -22,10 +22,13 @@ me.sayHi()
 ```
 <b>‣</b> Student at National University of Mongolia <i>- Computer Science </i><br>
 <b>‣</b> My skills are:
-    * Javascript (ES6+)
-    * React
-    * Next.js
-    * Tailwind CSS
+<ul>
+  <li>Javascript (ES6+)</li>
+  <li>React</li>
+  <li>Next.js</li>
+  <li>Tailwind CSS</li>
+</ul>
+
 
 ### Links
 
