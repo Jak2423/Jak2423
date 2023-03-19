@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 
 
 
@@ -10,7 +10,7 @@ struct Developer {
   let role = "Frontend Developer"
   let location = "Mongolia 🇲🇳"
   let languages = ["mn_Mn", "en_US"]
-  let skills = ["JavaScript", "React", "Next.js", "Swift"]
+  let skills = ["JavaScript", "React", "Next.js"]
   
   func sayHi() {
     print("Hi, thanks for dropping by, feel free to have a look at my work!")
