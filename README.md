@@ -20,8 +20,9 @@ struct Developer {
 let me = Developer()
 me.sayHi()
 ```
+<b>‣</b> Student at National University of Mongolia <samp><i>- Computer Science </i>
 
-## Links
+### Links
 
 - **Website:** https://jak-dev.vercel.app
 - **Twitter:** [@javhln](https://twitter.com/javhln)
