@@ -5,7 +5,7 @@
 
 #### Links
 
-- **Website:** https://jak-dev.vercel.app
-- **Twitter:** [@javhln](https://twitter.com/javhln)
-- **Mail:** <a target="_blank" rel="me noreferrer" href="mailto:javhlan0420@gmail.com">javhlan0420@gmail.com</a>
+- *Website*: https://jak-dev.vercel.app
+- Twitter: [@javhln](https://twitter.com/javhln)
+- Mail: <a target="_blank" rel="me noreferrer" href="mailto:javhlan0420@gmail.com">javhlan0420@gmail.com</a>
 
