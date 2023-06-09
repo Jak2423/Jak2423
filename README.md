@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<b>›</b> Student at National University of Mongolia <i>- Computer Science </i><br>
+<b>›</b> Student at National University of Mongolia <i>- Software Engineer </i><br>
 <b>›</b> My skills are: Javascript (ES6+), React, Next.js, Tailwind CSS, Flutter<br>
 
 ### Links
