@@ -5,9 +5,8 @@
 __I code with__:
 - Language: TypeScript, JavaScript, C++, C
 - Frontend: React, Svelte, Flutter
-- Backend: Express
 - Fullstack: Next.js
-- Database: Supabase, Firebase, MySQL, MongoDB
+- Database: Supabase, MySQL, MongoDB
 - Styling: TailwindCSS, Framer Motion
 
 
